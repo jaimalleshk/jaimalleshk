@@ -36,11 +36,11 @@ I build real, end-to-end tools using a customized AI-agent (Claude Code) workflo
 | [**Offline AI WhatsApp Aggregator**](https://github.com/jaimalleshk/Offline-AI-WhatsApp-Message-Aggregator) | Python | **On-device** community intelligence — a local Qwen agent scrapes, OCRs, dedupes & reports. No cloud AI |
 | [**LG TV Weather Dashboard**](https://github.com/jaimalleshk/LG-TV-Screensaver-Time-Weather-Dashboard) | JavaScript | Always-on LG webOS TV dashboard — clock, 8-day weather, eclipse countdowns. No API key |
 
-### 🎯 Open to
+### 🎯 Liked Positions:
 **IT Director · Senior Technical Manager · Technical / IT Manager · Principal / Solutions Architect · AI Deployment Engineer**
 
 ### 🤝 Connect
-- 💼 **LinkedIn:** _‹add your LinkedIn URL here›_
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jaimalleshbabu/
 - 💬 Open an issue or discussion on any repo
 
 <!-- Optional GitHub stats card — uncomment to show:
