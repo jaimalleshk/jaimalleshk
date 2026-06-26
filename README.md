@@ -1,34 +1,47 @@
 ## Jai Mallesh Babu
 
-**AI Deployment & Solutions Architect · Principal Technology Architect** — turning frontier AI and the Microsoft platform into shipped enterprise outcomes.
+**Technology & Delivery Leader · Principal Architect** — IT Director · Senior Technical / IT Manager · AI Deployment & Solutions Architect
 
-`22+ yrs enterprise IT` · `14+ yrs Microsoft Dynamics` · **Microsoft FastTrack Recognized Solution Architect (2021–2024)** · **Power Platform Architect Expert** (12+ Microsoft certifications)
+22+ years turning complex enterprise transformations into shipped outcomes — combining **people & delivery leadership** with **deep, hands-on architecture and AI engineering**.
 
-📍 US-based · open to senior roles — AI Deployment / Solutions Architect · Principal Architect · IT Director · Senior Technical Manager
+`22+ yrs enterprise IT` · `14+ yrs Microsoft Dynamics` · **FastTrack Recognized Solution Architect (2021–2024)** · **Power Platform Architect Expert** · `12+ Microsoft certifications` · 📍 US-based
 
 ---
 
-### 🚀 What I do
-Customer-facing technical leader embedded with Fortune 500 clients as their primary architect for **AI-first digital transformation**. I lead from deep hands-on credibility — rapidly prototyping to validate ideas and de-risk decisions, then scaling them across global onsite/offshore teams.
+### 👔 Leadership & delivery
+- Lead **global onsite/offshore engineering teams** — people management, mentoring, capability building, recruitment & onboarding
+- Own **delivery end to end** — solution & enterprise architecture, pre-sales & technology roadmap, governance & engineering-process standards
+- Embedded with **Fortune 500 clients** as primary technical authority for 14+ years; large-format workshops & enablement (**8,000+ user rollouts, 3,000+ locations**)
+- Translate ambiguous business goals into clear technology strategy; enforce the governance that keeps large programs on track and de-risks major commitments early
 
-- **AI & agentic engineering** — Claude Code, Claude Agent SDK, OpenAI / Codex-class agents, Gemini CLI; building AI-assisted SDLC for enterprise applications
-- **Microsoft intelligent business apps** — Dynamics 365, Power Platform, Copilot Studio, AI Builder, Dataverse, PCF, Power Pages
+### 🧠 Technology specialist
+- **AI & agentic engineering** — Claude Code, Claude Agent SDK, OpenAI / Codex-class agents, Gemini CLI; multi-model AI strategy
+- **Microsoft platform** — Dynamics 365, Power Platform, Copilot Studio, AI Builder, Dataverse, PCF, Power Pages
 - **Azure AI & data** — Azure OpenAI, Azure ML, Document Intelligence; ADF, Synapse, Databricks, Microsoft Fabric, Data Lake
-- **Architecture & delivery** — enterprise/solution architecture, complex integrations & migrations, governance, CI/CD (Azure DevOps, GitHub Actions), team leadership
+- **Engineering** — enterprise/solution architecture, integrations & migrations, CI/CD (Azure DevOps, GitHub Actions) · hands-on in **Python, C#/.NET, TypeScript, JavaScript**
 
 ### 🏆 Selected impact
 - Led a **Salesforce → Dynamics 365** CRM transformation for one of the **largest US telecom** providers — **8,500+ sales users** across Commercial and Government (GCC) clouds
 - Delivered across **Telecom, Energy, Healthcare, B2B Distribution, Wealth Management, Insurance, and Manufacturing**
 - **Microsoft FastTrack Recognized Solution Architect** — four years running (2021–2024)
 
-### 🛠️ Hands-on / open source
-I use AI coding agents to build real tools end-to-end. Featured:
+### 🛠️ Open-source projects — hands-on proof
+I build real, end-to-end tools using a customized AI-agent (Claude Code) workflow:
 
-**[Google Drive ⇄ OneDrive TidySync](https://github.com/jaimalleshk/Google-Drive-OneDrive-TidySync)** — a free, private CLI (Python, built on rclone) for two-way **delta sync** + **content-hash duplicate detection** + **Google-doc → Office conversion**. Menu-driven, per-run reports, scheduling, standalone `.exe`. Built with a customized Claude Code workflow.
+| Project | Stack | What it does |
+|---|---|---|
+| [**Google Drive ⇄ OneDrive TidySync**](https://github.com/jaimalleshk/Google-Drive-OneDrive-TidySync) | Python | Free, private two-way **delta sync** + **content-hash dedupe** + Google-doc → Office conversion, built on rclone |
+| [**Power Platform Productivity Utilities**](https://github.com/jaimalleshk/Power-Platform-Productivity-Utilities) | C# | Productivity utilities & plugins for **Microsoft Power Platform / Dynamics 365** |
+| [**Multi-LLM Voice & Text Chat**](https://github.com/jaimalleshk/Multi-LLM-Voice-Text-Chat) | TypeScript | Desktop multi-LLM chat — voice, real-time streaming, **side-by-side compare** across OpenAI / Anthropic / Gemini |
+| [**Offline AI WhatsApp Aggregator**](https://github.com/jaimalleshk/Offline-AI-WhatsApp-Message-Aggregator) | Python | **On-device** community intelligence — a local Qwen agent scrapes, OCRs, dedupes & reports. No cloud AI |
+| [**LG TV Weather Dashboard**](https://github.com/jaimalleshk/LG-TV-Screensaver-Time-Weather-Dashboard) | JavaScript | Always-on LG webOS TV dashboard — clock, 8-day weather, eclipse countdowns. No API key |
+
+### 🎯 Open to
+**IT Director · Senior Technical Manager · Technical / IT Manager · Principal / Solutions Architect · AI Deployment Engineer**
 
 ### 🤝 Connect
 - 💼 **LinkedIn:** _‹add your LinkedIn URL here›_
-- 💬 Open an issue or discussion on any of my repos
+- 💬 Open an issue or discussion on any repo
 
 <!-- Optional GitHub stats card — uncomment to show:
 ![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimalleshk&show_icons=true)
